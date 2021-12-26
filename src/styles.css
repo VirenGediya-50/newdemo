@@ -1,0 +1,53 @@
+
+.mainLayout {
+    border: 1px black solid;
+    width: 500px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 10px;
+}
+
+.dashboardlayout{
+    border: 1px black solid;
+    width: 1000px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 10px;
+}
+
+.headerName { 
+    text-align: center;
+}
+
+.subdiv{
+    margin : 10px 20px;
+    text-align: center;
+    /* border: 1px black solid; */
+}
+
+.maintextfield { 
+    text-align: center;   
+    width: 300px;
+    margin: 20px auto !important;
+}
+
+.buttondiv{
+    width: 300px;
+}
+
+.leftbutton{
+    margin: 10px 20px 20px !important;
+}
+
+.rightbutton{
+    margin:  10px 20px 20px !important;
+}
+
+.searchtextfield{
+    width: -webkit-fill-available;
+    margin-bottom: 20px !important;
+}
+.table{
+    border: 1px black solid;
+    width: -webkit-fill-available;
+}
